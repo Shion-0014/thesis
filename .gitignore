@@ -1,0 +1,10 @@
+__pycache__/
+
+# pycharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pipfile.lock
+*.lock
